@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunogalvao/api.git"
+  },
+  "keywords": [],
+  "author": "Bruno Galvão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunogalvao/api/issues"
+  },
+  "homepage": "https://github.com/brunogalvao/api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
